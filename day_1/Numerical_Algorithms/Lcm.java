@@ -1,4 +1,4 @@
-package day_1;
+package day_1.Numerical_Algorithms;
 public class Lcm {
     public static void main(String[] args) {
         int a = 12, b = 15;

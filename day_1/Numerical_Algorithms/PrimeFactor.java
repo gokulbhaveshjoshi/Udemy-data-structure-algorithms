@@ -1,4 +1,4 @@
-package day_1;
+package day_1.Numerical_Algorithms;
 
 import java.util.Scanner;
 
